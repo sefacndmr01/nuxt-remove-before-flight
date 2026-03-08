@@ -1,6 +1,6 @@
 {
     "name": "nuxt-remove-before-flight",
-    "version": "0.0.3",
+    "version": "1.0.0",
     "description": "Nuxt module that strips code marked with // @remove-before-flight only during build; dev and git stay unchanged.",
     "type": "module",
     "exports": {
